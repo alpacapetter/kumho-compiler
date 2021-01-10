@@ -3,4 +3,4 @@
 *.exe
 .vscode
 .ipynb_checkpoints
-BM1 SCRUBBER SC-101-PT-101 DATA_csv
+csv_data/
